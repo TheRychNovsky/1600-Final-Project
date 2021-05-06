@@ -1,5 +1,5 @@
 ## **Part 4: SSD**
 Basics of SSD: This component is also fairly self explanatory as SSDs are how your computer stores any and all information you want to download or install. And I would just like to preface that this is just my opinion, but I believe that hard drives should no longer be used in any modern PC build. SSDs have pretty much completely replaced harddrives as their performance and durability far exceeds that of harddrives, and the prices of SSDs in today's market are extremely affordable. Going one step further, M.2 SSDs are really the new norm and all you really need unless you are consistently working with and or storing very large files such as in video/audio editing, in which case you can always install external SSDs if needed. And then one final step forward, NVME M.2 SSDS are even better due to their incredible speeds, small size, and overall ease of installation in consumer builds. 
-<br/>Below is a video that goes through and explains all the different types of SSDs.
+<br/><br/>Below is a video that goes through and explains all the different types of SSDs.
 * [How they work](https://www.youtube.com/watch?v=kx0ynC8Thlw)
 > [Go back to home page](./README.md)
